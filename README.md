@@ -1,2 +1,2 @@
 # WhatsApp-Clone
-Vector Artwork, made using Adobe Illustrator. While few resources are take from the internet.
+Vector Artwork, made using Adobe Illustrator. While few resources are taken from the internet
